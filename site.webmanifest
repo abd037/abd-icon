@@ -1,7 +1,7 @@
 {
   "name": "Khandoker Abdullah's Portfolio",
   "short_name": "Khandoker Abdullah",
-  "start_url": "/",
+  "start_url": "https://khandokerabdullah.me/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007073",
@@ -20,6 +20,14 @@
       "src": "https://raw.githubusercontent.com/abd037/abd-icon/main/apple-touch-icon.png",
       "sizes": "180x180",
       "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/abd037/abd-icon/main/Website%20thumbnail.png",
+      "sizes": "800x600",
+      "type": "image/png",
+      "form_factor": "wide"
     }
   ]
 }

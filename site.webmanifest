@@ -25,7 +25,12 @@
   "screenshots": [
     {
       "src": "https://raw.githubusercontent.com/abd037/abd-icon/main/Website%20thumbnail.png",
-      "sizes": "800x600",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/abd037/abd-icon/main/Website%20thumbnail.png",
+      "sizes": "1366x768",
       "type": "image/png",
       "form_factor": "wide"
     }
